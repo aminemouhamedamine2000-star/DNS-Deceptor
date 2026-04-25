@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.pyo
+*.tmp
+.idea/
+.vscode/
+*.swp
+*.bak
+nas_alerts.log
