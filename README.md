@@ -15,3 +15,10 @@
 Install Scapy:
 ```bash
 sudo apt install python3-scapy -y
+
+
+
+⚠️ IMPORTANT NOTICE – For academic purposes only  
+This tool is designed for educational and academic research within controlled laboratory environments.  
+Any use outside the laboratory, such as on real devices without permission, is illegal.  
+By using this tool, you agree to these terms.
