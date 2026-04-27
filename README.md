@@ -1,4 +1,4 @@
-# DNS Deceptor - Active DNS Spoofing Tool
+# DNS Deceptor - Active DNS Security & Simulation Tool
 
 **DNS Deceptor** is an active defense tool that listens for DNS queries and replies with spoofed responses for specific domains. It helps in deceptive security, honeypot redirection, and testing network defenses.
 
